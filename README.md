@@ -1,4 +1,4 @@
-# ML-A-Z-course-implemintation
+# Machine learning A-Z course implemintation
 In this repository my work and implementation while studing cource ML a-z in Udemy using R  
  - Regeression models
    - Simple Linear Regression
